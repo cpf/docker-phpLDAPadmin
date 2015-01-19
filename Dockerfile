@@ -1,5 +1,6 @@
 FROM osixia/baseimage:0.8.1
 MAINTAINER Bertrand Gouny <bertrand.gouny@osixia.net>
+MAINTAINER Mathias Teugels <mathias@codercpf.be>
 
 # Default configuration: can be overridden at the docker command line
 ENV LDAP_HOST 127.0.0.1
